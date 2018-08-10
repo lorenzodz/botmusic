@@ -1,0 +1,17 @@
+{
+  "name": "botmusic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ytdl-core": "^0.24.0",
+    "opusscript": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "THEBEAR",
+  "license": "ISC",
+  "description": ""
+}
